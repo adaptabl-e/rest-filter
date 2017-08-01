@@ -1,0 +1,12 @@
+{
+    "name": "adaptable-e/rest-filter",
+    "description": "Restores the `filter` param to post enpdpoints.",
+    "keywords": [
+        "wp",
+        "wp-api",
+        "rest"
+    ],
+    "type": "wordpress-plugin",
+    "homepage": "https://github.com/adaptable-e/rest-filter",
+    "license": "MIT"
+}
